@@ -1,6 +1,6 @@
 {
   "name": "com.upm.test",
   "displayName": "UpmTest",
-  "version": "2.0.0",
-  "description": "PackageManager Test Editor Definision \ucd94\uac00"
+  "version": "3.0.0",
+  "description": "PackageManager Test Editor Definision 추가\nEditor Open 에러 수정"
 }
