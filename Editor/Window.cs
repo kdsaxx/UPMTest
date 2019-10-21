@@ -11,4 +11,9 @@ public class Window : EditorWindow
         var exampleWindow = CreateInstance<Window>();
         exampleWindow.Show();
     }
+
+    void OnGUI()
+    {
+        GUILayout.TextField("Text Test");
+    }
 }
