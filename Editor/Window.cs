@@ -11,5 +11,4 @@ public class Window : EditorWindow
         var exampleWindow = CreateInstance<Window>();
         exampleWindow.Show();
     }
-
 }
